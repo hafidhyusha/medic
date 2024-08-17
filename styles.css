@@ -58,6 +58,7 @@
         margin-top: 6px;
         box-shadow: 0 0 10px black;
         padding: 10px;
+        max-width: 300px;
         border-radius: 10px;
         overflow-x: auto;
         margin-left: 20px;
